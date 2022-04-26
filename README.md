@@ -1,8 +1,8 @@
 ## Hi there 👋 My name is
 ![](https://user-images.githubusercontent.com/91092346/165355808-9b580184-9231-438a-a397-d7ad4407d477.jpeg)
 - :crown: Pronouns:she/her
-- 💻I am a Computer Systems Engineering Student
-- :woman_office_worker: I am Scrum Master. 
+- 💻I´m a Computer Systems Engineering Student
+- :woman_office_worker: I´m Scrum Master. 
 
 ### :hammer: Languages and tools:
 - HTML / CSS / JS / SASS / Github / Git 
@@ -14,9 +14,9 @@
 - ✈️ travel
 - :fried_shrimp: Shrimp
 
-#### :speaker: Contact me 
-[Linkedin](https://www.linkedin.com/in/nayeli-andrade-11581b229) :briefcase:
-[Telegram](https://t.me/Nayeli_Andrade) :iphone:
+### :speaker: Contact me 
+- [Linkedin](https://www.linkedin.com/in/nayeli-andrade-11581b229) :briefcase:
+- [Telegram](https://t.me/Nayeli_Andrade) :iphone:
 
 <!--
 **NayeliAndrade/NayeliAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
