@@ -14,7 +14,7 @@
 - ✈️ travel
 - :fried_shrimp: Shrimp
 
-#### Contact me 
+#### :speaker: Contact me 
 [Linkedin](https://www.linkedin.com/in/nayeli-andrade-11581b229) :briefcase:
 [Telegram](https://t.me/Nayeli_Andrade) :iphone:
 
