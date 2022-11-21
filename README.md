@@ -2,13 +2,13 @@
 ![](https://user-images.githubusercontent.com/91092346/165355808-9b580184-9231-438a-a397-d7ad4407d477.jpeg)
 - :crown: Pronouns:she/her
 - 💻I´m a Computer Systems Engineering Student
-- :woman_office_worker: I´m Scrum Master. 
+- :woman_office_worker: I have a certificate of Scrum Master. 
 
 ### :hammer: Languages and tools:
-- HTML / CSS / JS / SASS / Github / Git 
+- HTML / CSS / JS / SASS / Github / Git / Python / SQL / Power BI
 
-- :mortar_board: I´m currently studying at the Nogara Dev Code academy by Front End developer.
-- :point_right: I´m currently learning Javascript.
+- :mortar_board: I studied in the Nogara Dev Code academy by Front End developer.
+- :point_right: I´m currently learning Python.
 
 ### :star: Quick facts
 - ✈️ travel
