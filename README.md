@@ -15,7 +15,7 @@
 - :fried_shrimp: Shrimp
 
 ### :speaker: Contact me 
-- [Linkedin](https://www.linkedin.com/in/nayeli-andrade-11581b229) :briefcase:
+- [Linkedin](www.linkedin.com/in/nayeliandrade) :briefcase:
 - [Telegram](https://t.me/Nayeli_Andrade) :iphone:
 
 <!--
