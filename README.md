@@ -1,11 +1,12 @@
 ## Hi there 👋 My name is
-![](![gitportada](![gitPortada](https://user-images.githubusercontent.com/91092346/225802004-b1497936-f692-456d-a455-4724528b0e20.png))
+![gitPortada](https://user-images.githubusercontent.com/91092346/225802004-b1497936-f692-456d-a455-4724528b0e20.png)
 
 ### :speaker: Contact me 
 - [Portafolio](https://nayeliandrade.github.io/portafolio/portafolio) :briefcase:
-- [Linkedin](www.linkedin.com/in/nayeliandrade) :woman_in_tuxedo: 
+- [Linkedin](www.linkedin.com/in/nayeliandrade) :woman_technologist: 
 - [Telegram](https://t.me/Nayeli_Andrade) :iphone:
 
+### :woman_student: Who i am?
 - :crown: Pronouns:she/her
 - 💻I´m a Software Engineer 
 - :woman_office_worker: I have a certificate of Scrum Master. 
