@@ -1,7 +1,13 @@
 ## Hi there 👋 My name is
-![](https://user-images.githubusercontent.com/91092346/165355808-9b580184-9231-438a-a397-d7ad4407d477.jpeg)
+![](![gitportada](![gitPortada](https://user-images.githubusercontent.com/91092346/225802004-b1497936-f692-456d-a455-4724528b0e20.png))
+
+### :speaker: Contact me 
+- [Portafolio](https://nayeliandrade.github.io/portafolio/portafolio) :briefcase:
+- [Linkedin](www.linkedin.com/in/nayeliandrade) :woman_in_tuxedo: 
+- [Telegram](https://t.me/Nayeli_Andrade) :iphone:
+
 - :crown: Pronouns:she/her
-- 💻I´m a Computer Systems Engineering Student
+- 💻I´m a Software Engineer 
 - :woman_office_worker: I have a certificate of Scrum Master. 
 
 ### :hammer: Languages and tools:
@@ -13,10 +19,6 @@
 ### :star: Quick facts
 - ✈️ travel
 - :fried_shrimp: Shrimp
-
-### :speaker: Contact me 
-- [Linkedin](www.linkedin.com/in/nayeliandrade) :briefcase:
-- [Telegram](https://t.me/Nayeli_Andrade) :iphone:
 
 <!--
 **NayeliAndrade/NayeliAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
