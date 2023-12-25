@@ -2,7 +2,7 @@
 ![gitPortada](https://user-images.githubusercontent.com/91092346/225802004-b1497936-f692-456d-a455-4724528b0e20.png)
 
 ### :speaker: Contact me 
-- [Portafolio](https://portfolio.bortom.co/) :briefcase:
+- [Portafolio](https://portafolio-seven-gilt.vercel.app/) :briefcase:
 - [Linkedin](www.linkedin.com/in/nayeliandrade) :woman_technologist: 
 - [Telegram](https://t.me/Nayeli_Andrade) :iphone:
 
